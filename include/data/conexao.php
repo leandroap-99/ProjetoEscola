@@ -2,8 +2,8 @@
 
 $host = "localhost";
 $port = "5432";
-$dbname = "dexterescola";
-$user = "lucas";
+$dbname = "aula04";
+$user = "leandro";
 $password = "123";
 
 $connection_string = "host={$host} port={$port} dbname={$dbname} user={$user} password={$password}";
